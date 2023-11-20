@@ -20,3 +20,19 @@
 * long double 10 bytes 3.4E-4932 to 1.1E+493219 (19 decimal places)
 *
 */
+
+/*
+*
+* void Specifies that no value is available, used in 3 possible scenarios:
+*
+* 1.- Function returns a void data type
+*
+* void function()
+*
+* 2.- Function has void arguments
+*
+* int random(void)
+*
+* Pointer that goes to the memory address of an object, but does not care what data type it has.
+* 
+*/
