@@ -36,3 +36,8 @@
 * Pointer that goes to the memory address of an object, but does not care what data type it has.
 * 
 */
+
+/*
+* char 1 byte -128 to 127
+* unsigned char 1 byte 0 to 255
+* */
